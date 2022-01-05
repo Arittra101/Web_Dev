@@ -1,0 +1,17 @@
+body{
+
+    /* background : url("/Image/grl.jpg"); */
+    background-size: 1080px 750px;
+    
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    background-attachment: fixed;
+    /* background-attachment: scrooll; */
+
+}
+h4{
+    color:black;   
+    border: 1px solid black;
+    display: inline;  
+    /* jototuk need ototuk nibe */
+}

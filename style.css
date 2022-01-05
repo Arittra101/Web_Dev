@@ -1,0 +1,27 @@
+img{
+
+    width: 20%;
+}
+table,td,th{
+
+    border:solid 1px black;
+    padding: 5px;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+
+#table1{
+   
+    border-collapse: collapse;
+}
+
+h3,form{
+
+    text-align: center;
+}
+input{
+
+    padding: 5px;
+    margin: 3px;
+}

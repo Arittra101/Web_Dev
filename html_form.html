@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <form action="user.php" method="get">
+
+        <label for="username">UserName</label><br>
+        <input name="Username" type="text"><br>
+        <label for="Passcode">Passcode</label><br>
+        <input name="Password" type="password"><br>
+        <!-- <input type="button" value ="Submit"> -->
+
+        <select name="select">
+
+            <option>4.00</option>
+            <option>2.00</option>
+            <option>1.00</option>
+        </select>CGPA
+        <br>
+        
+        <label>Gender</label><br>
+        <input name="gender" type="radio">Male
+
+        <input name="gender" type="radio">Female
+
+        <input name="gender" type="radio">Others
+        <br>
+
+        <input name="list" list="mylist">
+        <datalist id="mylist">
+
+                <option value="Dhaka">Dhaka</option>
+                <option value="Dhaka">Dhaka</option>
+                <option value="Dhaka">Dhaka</option>
+
+        </datalist><br>
+        <textarea name="textarea" id="" cols="30" rows="10" placeholder="Type"></textarea><br>
+        <Button type="button">Submit</Button>
+
+    </form>
+</body>
+
+</html>
