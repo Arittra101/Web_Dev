@@ -1,0 +1,36 @@
+.container{
+    background-color: wheat;
+    width: 40%;
+    margin: auto;
+}
+.container .child_container{
+
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    background-color: tomato;
+    
+}
+.container .child_container table{
+
+    border : 1px solid darkcyan;
+    border-collapse: collapse;
+    
+
+}
+
+ .child_container table th,td{
+
+    border : 1px solid darkcyan;
+    border-collapse: collapse;
+    padding: 5px;
+    
+   
+} 
+/* .child_container table td{
+
+    border : 1px solid darkcyan;
+    border-collapse: collapse;
+    
+   
+} */

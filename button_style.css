@@ -1,0 +1,61 @@
+.nevbar{
+
+    border: 1px solid green;
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+    
+}
+
+.nevbar .chlid_nav {
+
+    border: 6px solid ;
+    padding: 5px;
+    max-width: 200px;
+    margin: auto;
+
+}
+.nevbar  .chlid_nav a{
+
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    margin: auto;
+    text-align: center;
+    max-width: 120px;
+   
+    display: block;
+    background-color: blanchedalmond;
+    border-radius: 14px 14px;
+
+}
+.nevbar  .chlid_nav a:hover{
+
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    margin: auto;
+    text-align: center;
+    max-width: 120px;
+   
+    display: block;
+    
+    border-radius: 14px 14px;
+
+}
+
+.nevbar  .chlid_nav a:link{
+    background-color: rgb(95, 196, 100);
+}
+.nevbar  .chlid_nav a:visited{
+    background-color: rgb(32, 97, 35);
+}
+.nevbar  .chlid_nav a:hover{
+
+    background-color: rgb(95, 196, 100);
+
+}.nevbar  .chlid_nav a:checked{
+
+    background-color: rgb(95, 196, 100);
+
+}

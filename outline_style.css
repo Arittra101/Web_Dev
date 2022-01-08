@@ -1,0 +1,15 @@
+.navbar{
+
+    border: 1px solid black;
+    padding: 20px;
+
+}
+a{
+    border: 1px solid black;
+    margin-top: 100px;
+    display: inline-block;
+    outline: 4px solid black;
+    text-decoration: none;
+     
+
+}
